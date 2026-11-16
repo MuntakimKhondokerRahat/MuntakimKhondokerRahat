@@ -1,0 +1,33 @@
+{
+    "activeFile": ",gl.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        ",gl.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 386,
+                "y": 383
+            }
+        },
+        "afafafafa.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Redoy/Downloads",
+    "map.height": 24,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 24,
+    "openFiles": [
+        ",gl.tmx",
+        "afafafafa.tsx"
+    ],
+    "project": "h;.n.tiled-project",
+    "recentFiles": [
+        "afafafafa.tsx",
+        ",gl.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
